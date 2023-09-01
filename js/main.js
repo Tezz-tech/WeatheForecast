@@ -1,4 +1,3 @@
-let apiKey = "ffb418ab3472a2924cc5a2d238af4019";
 $("#get").click(function(event){
     event.preventDefault();
     let location = $("#location").val();
